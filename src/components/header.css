@@ -1,0 +1,27 @@
+
+.a {
+  text-decoration: none;
+}
+.headerContainer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #282c34;
+    color: white;
+    
+}
+.logo{
+    margin-left: 10px;
+}
+.menu {
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+align-items: center;
+width: 30%;
+margin-right: 20px;
+}
+.menuItems{
+    padding: 0 5px ;
+    text-decoration: none;
+    color: white;
+}
